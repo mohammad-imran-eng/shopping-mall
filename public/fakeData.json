@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Acurrency Meter",
+    "img": "https://i.ibb.co.com/3pbKQrr/accuray-q7z-Ve6xd1-QY-unsplash.jpg",
+    "description": "An advanced currency meter for quick and accurate financial transactions.",
+    "category": "Finance Tools",
+    "isFeature": true,
+    "price": 199.99
+  },
+  {
+    "id": 2,
+    "name": "Memory (Storage device)",
+    "img": "https://i.ibb.co.com/BrznKcp/samsung-memory-nu-Rv-QVPWXCk-unsplash.jpg",
+    "description": "A high-speed storage device to store and transfer data efficiently.",
+    "category": "Data Storage",
+    "isFeature": false,
+    "price": 79.99
+  },
+  {
+    "id": 3,
+    "name": "Wireless Smooth Light",
+    "img": "https://i.ibb.co.com/yqwGfT4/640-a-modern-elegant-apartment-with-bright-lighting-and-healthcare-equipment-generated-by-ai.jpg",
+    "description": "A sleek wireless light that provides adjustable brightness for any space.",
+    "category": "Home Lighting",
+    "isFeature": true,
+    "price": 49.99
+  },
+  {
+    "id": 4,
+    "name": "Wireless Charging Case",
+    "img": "https://i.ibb.co.com/LYdjm4p/640-wireless-mic-with-its-charging-case-on-a-green-background.jpg",
+    "description": "A compact wireless charging case designed for seamless convenience.",
+    "category": "Accessories",
+    "isFeature": false,
+    "price": 29.99
+  },
+  {
+    "id": 5,
+    "name": "Smartphone Pro X",
+    "img": "https://i.ibb.co.com/Q6xJLVr/640-black-smartphone-on-yellow-blue-background.jpg",
+    "description": "A state-of-the-art smartphone with cutting-edge features and a sleek design.",
+    "category": "Mobile Devices",
+    "isFeature": true,
+    "price": 999.99
+  }
+]
